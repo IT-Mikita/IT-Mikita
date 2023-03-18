@@ -1,5 +1,5 @@
 
-# I’m Mikita.  It’s nice to e-meet you👋
+# It’s nice to e-meet you👋
 
 ---
 
