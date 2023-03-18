@@ -45,7 +45,7 @@ I've over 3 years of experience in Developing <img src="https://media.giphy.com/
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=IT-Mikita&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="270px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=It-MIKITA&layout=compact&theme=vision-friendly-dark" />
+      <img height="200px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=It-MIKITA&layout=compact&theme=vision-friendly-dark"/>
     </td>
   </tr>
 </table>
