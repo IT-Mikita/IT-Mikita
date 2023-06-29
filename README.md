@@ -13,7 +13,7 @@ I've over 3 years of experience in Developing <img src="https://media.giphy.com/
 - 30+ chatbots
 - 15+ APIs for commercial use</div>
 
-### :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-workmikita-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/work_mikita) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:it.mikita@gmail.com)
+### :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-webmikita-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/web_mikita) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:it.mikita@gmail.com)
 
 ---
 
